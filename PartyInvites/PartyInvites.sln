@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartyInvites", "PartyInvites\PartyInvites.csproj", "{9DF3290C-22BE-40E3-B4CC-E106308B4F19}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartyInvites", "PartyInvites\PartyInvites.csproj", "{790CB553-7754-440B-AD30-DF1E31897294}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9DF3290C-22BE-40E3-B4CC-E106308B4F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9DF3290C-22BE-40E3-B4CC-E106308B4F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9DF3290C-22BE-40E3-B4CC-E106308B4F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9DF3290C-22BE-40E3-B4CC-E106308B4F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{790CB553-7754-440B-AD30-DF1E31897294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{790CB553-7754-440B-AD30-DF1E31897294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{790CB553-7754-440B-AD30-DF1E31897294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{790CB553-7754-440B-AD30-DF1E31897294}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C8E2EAAC-62A4-4A09-BD17-BD9763E89B6D}
+		SolutionGuid = {7B9105F8-DCD1-4F67-911B-BF44F888B1C3}
 	EndGlobalSection
 EndGlobal
