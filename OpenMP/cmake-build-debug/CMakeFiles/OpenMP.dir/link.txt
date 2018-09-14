@@ -1,0 +1,1 @@
+C:/cygwin64/bin/c++.exe  -fopenmp -g  -Wl,--enable-auto-import  CMakeFiles/OpenMP.dir/main.cpp.o  -o OpenMP.exe -Wl,--out-implib,libOpenMP.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

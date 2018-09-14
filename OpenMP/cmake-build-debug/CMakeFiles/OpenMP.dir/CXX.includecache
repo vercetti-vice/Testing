@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/George Smith/CLionProjects/OpenMP/main.cpp
+iostream
+-
+omp.h
+-
+cstdio
+-
+limits.h
+-
+cmath
+-
+

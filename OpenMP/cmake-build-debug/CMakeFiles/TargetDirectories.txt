@@ -1,0 +1,3 @@
+/cygdrive/c/Users/George Smith/CLionProjects/OpenMP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/George Smith/CLionProjects/OpenMP/cmake-build-debug/CMakeFiles/OpenMP.dir
+/cygdrive/c/Users/George Smith/CLionProjects/OpenMP/cmake-build-debug/CMakeFiles/edit_cache.dir
